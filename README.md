@@ -3,7 +3,10 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Raise an issue to join the TirtharajSinhaDevCommunity GitHub community.
-
+1. <a href="https://github.com/TirtharajSinhaDevCommunity/support/issues/new?assignees=tirtharajsinha&labels=invite+me+to+the+community&template=please-invite-me-to-the-github-organization.md&title=Invite+me+to+the+TirtharrajSinhaDevCommunity+github+organization">Click here to direct link to join.
+2. fill details and click 'submit new issue button', consider image below.
+<img src="https://github.com/TirtharajSinhaDevCommunity/support/blob/main/detail.JPG">	
+	
 ### Some vague idea of how we could turn this into a support channel.
 
 Imagine the scenario where you are helping a stranger (or a new friend), a friend or a colleague on Discord / MS Teams / Slack / YouTube, etc. They may have found an old article from 5+ years ago about Docker that is not supported, a Node.js article that isn't supported in Node v14 and that sort of thing...
