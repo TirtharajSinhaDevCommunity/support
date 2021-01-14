@@ -3,8 +3,9 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Raise an issue to join the TirtharajSinhaDevCommunity GitHub community.
-1. <a href="https://github.com/TirtharajSinhaDevCommunity/support/issues/new?assignees=tirtharajsinha&labels=invite+me+to+the+community&template=please-invite-me-to-the-github-organization.md&title=Invite+me+to+the+TirtharrajSinhaDevCommunity+github+organization">Click here to direct link to join.
+1. <a href="https://github.com/TirtharajSinhaDevCommunity/support/issues/new?assignees=tirtharajsinha&labels=invite+me+to+the+community&template=please-invite-me-to-the-github-organization.md&title=Invite+me+to+the+TirtharrajSinhaDevCommunity+github+organization">Click here to direct link to join.<a>
 2. fill details and click 'submit new issue button', consider image below.
+## --------------->	
 <img src="https://github.com/TirtharajSinhaDevCommunity/support/blob/main/detail.JPG">	
 	
 ### Some vague idea of how we could turn this into a support channel.
