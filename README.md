@@ -52,9 +52,9 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
 	- Navigate to our community page: https://github.com/TirtharajSinhaDevCommunity/
   
  - find yourself by username in search bar. Follow the image Below
-  <img src="https://github.com /TirtharajSinhaDevCommunity/support/blob/main/member2.JPG" height="200px" width="400px">
+  <img src="https://github.com/TirtharajSinhaDevCommunity/support/blob/main/member2.JPG">
   
   - change  your visibility to public. follow the image below.
-  <img src="https://github.com/TirtharajSinhaDevCommunity/support/blob/main/member.PNG" height="200px" width="400px"> 
+  <img src="https://github.com/TirtharajSinhaDevCommunity/support/blob/main/member.PNG"> 
 	
 
