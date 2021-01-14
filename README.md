@@ -55,6 +55,6 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
   <img src="https://github.com /TirtharajSinhaDevCommunity/support/blob/main/member2.JPG" height="200px" width="400px">
   
   - change  your visibility to public. follow the image below.
-  <img src="https://github.com /TirtharajSinhaDevCommunity/support/blob/main/member.png" height="200px" width="400px"> 
+  <img src="https://github.com/TirtharajSinhaDevCommunity/support/blob/main/member.PNG" height="200px" width="400px"> 
 	
 
