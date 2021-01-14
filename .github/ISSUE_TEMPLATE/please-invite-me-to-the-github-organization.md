@@ -1,7 +1,7 @@
 ---
 name: Please invite me to the github organization
 about: I would like to join this awesome community.
-title: ''
+title: Invite me to the TirtharrajSinhaDevCommunity github organization
 labels: invite me to the community
 assignees: tirtharajsinha
 
