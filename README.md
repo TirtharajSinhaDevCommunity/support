@@ -57,4 +57,4 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
   - change  your visibility to public. follow the image below.
   <img src="https://github.com /TirtharajSinhaDevCommunity/support/blob/main/member.png" height="200px" width="400px"> 
 	
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=TirtharajSinhaDevCommunity&show_icons=true&theme=tokyonight" />
+
