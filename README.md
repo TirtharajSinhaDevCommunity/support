@@ -45,8 +45,8 @@ Please check out the [issue queue](https://github.com/TirtharajSinhaDevCommunity
 	 
 	 - Showcase of Open Source Portfolios to get feedback from community members.
     
-      Feel free to check out other cool repositories of EddieJoaude Community 
-      <a href='https://github.com/TirtharajSinhaDevCommunity/'>here</a>.
+      Feel free to check out cool portfolio. 
+      <a href='https://github.com/tirtharajsinha/'>here</a>.
 
 ## FAQ
 - **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community.
